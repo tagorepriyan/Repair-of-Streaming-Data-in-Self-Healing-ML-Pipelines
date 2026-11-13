@@ -4,7 +4,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8-purple.svg)](https://vitejs.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **IEEE Research Project Prototype**  
 > An executable, closed-loop research implementation of dynamic causal graph tracking, Bayesian counterfactual reconstruction, and empirical causal-consistency validation for self-healing streaming machine learning pipelines.
